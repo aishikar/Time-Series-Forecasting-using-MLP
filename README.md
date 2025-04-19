@@ -12,7 +12,7 @@ The dataset consists of time-series trajectories representing sequences of syste
 
 Each trajectory is composed of time-dependent features and is indexed by a unique ID. The model uses a **sliding window approach** to frame each prediction task as a supervised learning problem.
 
-## ⚙Methods
+## Methods
 
 ### ➤ Data Preprocessing:
 - Converted raw trajectories into overlapping windows using a sliding window view.
