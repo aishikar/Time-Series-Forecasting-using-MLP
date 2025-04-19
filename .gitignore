@@ -1,6 +1,0 @@
-Input/train.csv
-Output/submissions.csv
-*.csv # optional: ignore all CSVs
-Input/train.csv
-Output/submissions.csv
-*.csv # optional: ignore all CSVs
